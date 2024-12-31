@@ -131,6 +131,20 @@ Fetches the complete Katakana chart.
 
 ---
 
+## Scripts
+
+### Running Tests
+
+To run tests for the package, use:
+
+```bash
+npm run test
+```
+
+This will execute the `tests/core.js` file.
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find bugs, feel free to open an issue or submit a pull request on [GitHub](https://github.com/crizmo/japanese-easy).

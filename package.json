@@ -1,7 +1,7 @@
 {
   "name": "japanese-easy",
   "version": "1.0.0",
-  "description": "A utility package for fetching Japanese Kana and Kanji data",
+  "description": "A comprehensive toolkit for accessing and working with Japanese Kanji, Kana, and pronunciation data.",
   "main": "index.js",
   "type": "module",
   "scripts": {
