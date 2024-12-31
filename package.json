@@ -14,7 +14,9 @@
     "hiragana",
     "katakana",
     "language",
-    "utility"
+    "utility",
+    "charts",
+    "data"
   ],
   "author": "Kurizu",
   "license": "MIT",
