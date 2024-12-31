@@ -1,0 +1,1307 @@
+[
+    {
+      "character": "あ",
+      "romaji": "a",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3042",
+      "ipa": "a",
+      "example_words": ["あさ (asa) - morning", "あめ (ame) - rain"]
+    },
+    {
+      "character": "い",
+      "romaji": "i",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3044",
+      "ipa": "i",
+      "example_words": ["いぬ (inu) - dog", "いえ (ie) - house"]
+    },
+    {
+      "character": "う",
+      "romaji": "u",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3046",
+      "ipa": "u",
+      "example_words": ["うみ (umi) - sea", "うた (uta) - song"]
+    },
+    {
+      "character": "え",
+      "romaji": "e",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3048",
+      "ipa": "e",
+      "example_words": ["えき (eki) - station", "えん (en) - yen"]
+    },
+    {
+      "character": "お",
+      "romaji": "o",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "304A",
+      "ipa": "o",
+      "example_words": ["おかね (okane) - money", "おちゃ (ocha) - tea"]
+    },
+    {
+      "character": "か",
+      "romaji": "ka",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "304B",
+      "ipa": "ka",
+      "example_words": ["かさ (kasa) - umbrella", "かみ (kami) - paper"]
+    },
+    {
+      "character": "き",
+      "romaji": "ki",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "304D",
+      "ipa": "ki",
+      "example_words": ["き (ki) - tree", "きもの (kimono) - kimono"]
+    },
+    {
+      "character": "く",
+      "romaji": "ku",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "304F",
+      "ipa": "ku",
+      "example_words": ["くるま (kuruma) - car", "くち (kuchi) - mouth"]
+    },
+    {
+      "character": "け",
+      "romaji": "ke",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3051",
+      "ipa": "ke",
+      "example_words": ["けん (ken) - sword", "けいさつ (keisatsu) - police"]
+    },
+    {
+      "character": "こ",
+      "romaji": "ko",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3053",
+      "ipa": "ko",
+      "example_words": ["こども (kodomo) - child", "こえ (koe) - voice"]
+    },
+    {
+      "character": "さ",
+      "romaji": "sa",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3055",
+      "ipa": "sa",
+      "example_words": ["さかな (sakana) - fish", "さくら (sakura) - cherry blossom"]
+    },
+    {
+      "character": "し",
+      "romaji": "shi",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3057",
+      "ipa": "ɕi",
+      "example_words": ["しろ (shiro) - castle", "しんぶん (shinbun) - newspaper"]
+    },
+    {
+      "character": "す",
+      "romaji": "su",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3059",
+      "ipa": "su",
+      "example_words": ["すし (sushi) - sushi", "すいか (suika) - watermelon"]
+    },
+    {
+      "character": "せ",
+      "romaji": "se",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "305B",
+      "ipa": "se",
+      "example_words": ["せんせい (sensei) - teacher", "せかい (sekai) - world"]
+    },
+    {
+      "character": "そ",
+      "romaji": "so",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "305D",
+      "ipa": "so",
+      "example_words": ["そら (sora) - sky", "そうじ (souji) - cleaning"]
+    },
+    {
+      "character": "た",
+      "romaji": "ta",
+      "type": "hiragana",
+      "stroke_count": 4,
+      "unicode": "305F",
+      "ipa": "ta",
+      "example_words": ["たべる (taberu) - to eat", "たまご (tamago) - egg"]
+    },
+    {
+      "character": "ち",
+      "romaji": "chi",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3061",
+      "ipa": "tɕi",
+      "example_words": ["ちず (chizu) - map", "ちいさい (chiisai) - small"]
+    },
+    {
+      "character": "つ",
+      "romaji": "tsu",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3064",
+      "ipa": "tsu",
+      "example_words": ["つき (tsuki) - moon", "つくえ (tsukue) - desk"]
+    },
+    {
+      "character": "て",
+      "romaji": "te",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3066",
+      "ipa": "te",
+      "example_words": ["てがみ (tegami) - letter", "てんき (tenki) - weather"]
+    },
+    {
+      "character": "と",
+      "romaji": "to",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3068",
+      "ipa": "to",
+      "example_words": ["ともだち (tomodachi) - friend", "とり (tori) - bird"]
+    },
+    {
+      "character": "な",
+      "romaji": "na",
+      "type": "hiragana",
+      "stroke_count": 4,
+      "unicode": "306A",
+      "ipa": "na",
+      "example_words": ["なつ (natsu) - summer", "なまえ (namae) - name"]
+    },
+    {
+      "character": "に",
+      "romaji": "ni",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "306B",
+      "ipa": "ni",
+      "example_words": ["にほん (nihon) - Japan", "にく (niku) - meat"]
+    },
+    {
+      "character": "ぬ",
+      "romaji": "nu",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "306C",
+      "ipa": "nu",
+      "example_words": ["ぬの (nuno) - cloth", "ぬるい (nurui) - lukewarm"]
+    },
+    {
+      "character": "ね",
+      "romaji": "ne",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "306D",
+      "ipa": "ne",
+      "example_words": ["ねこ (neko) - cat", "ねつ (netsu) - fever"]
+    },
+    {
+      "character": "の",
+      "romaji": "no",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "306E",
+      "ipa": "no",
+      "example_words": ["のり (nori) - seaweed", "のむ (nomu) - to drink"]
+    },
+    {
+      "character": "は",
+      "romaji": "ha",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "306F",
+      "ipa": "ha",
+      "example_words": ["はな (hana) - flower", "はし (hashi) - bridge"]
+    },
+    {
+      "character": "ひ",
+      "romaji": "hi",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3072",
+      "ipa": "çi",
+      "example_words": ["ひと (hito) - person", "ひる (hiru) - noon"]
+    },
+    {
+      "character": "ふ",
+      "romaji": "fu",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3075",
+      "ipa": "ɸu",
+      "example_words": ["ふね (fune) - boat", "ふゆ (fuyu) - winter"]
+    },
+    {
+      "character": "へ",
+      "romaji": "he",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3078",
+      "ipa": "he",
+      "example_words": ["へや (heya) - room", "へん (hen) - strange"]
+    },
+    {
+      "character": "ほ",
+      "romaji": "ho",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "307B",
+      "ipa": "ho",
+      "example_words": ["ほん (hon) - book", "ほし (hoshi) - star"]
+    },
+    {
+      "character": "ま",
+      "romaji": "ma",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "307E",
+      "ipa": "ma",
+      "example_words": ["まち (machi) - town", "まど (mado) - window"]
+    },
+    {
+      "character": "み",
+      "romaji": "mi",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "307F",
+      "ipa": "mi",
+      "example_words": ["みず (mizu) - water", "みせ (mise) - shop"]
+    },
+    {
+      "character": "む",
+      "romaji": "mu",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3080",
+      "ipa": "mu",
+      "example_words": ["むし (mushi) - insect", "むら (mura) - village"]
+    },
+    {
+      "character": "め",
+      "romaji": "me",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3081",
+      "ipa": "me",
+      "example_words": ["め (me) - eye", "めし (meshi) - meal"]
+    },
+    {
+      "character": "も",
+      "romaji": "mo",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3082",
+      "ipa": "mo",
+      "example_words": ["もり (mori) - forest", "もんだい (mondai) - problem"]
+    },
+    {
+      "character": "や",
+      "romaji": "ya",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3084",
+      "ipa": "ja",
+      "example_words": ["やま (yama) - mountain", "やさい (yasai) - vegetable"]
+    },
+    {
+      "character": "ゆ",
+      "romaji": "yu",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3086",
+      "ipa": "ju",
+      "example_words": ["ゆき (yuki) - snow", "ゆめ (yume) - dream"]
+    },
+    {
+      "character": "よ",
+      "romaji": "yo",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3088",
+      "ipa": "jo",
+      "example_words": ["よる (yoru) - night", "ようふく (youfuku) - clothes"]
+    },
+    {
+      "character": "ら",
+      "romaji": "ra",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3089",
+      "ipa": "ɾa",
+      "example_words": ["らいねん (rainen) - next year", "らく (raku) - easy"]
+    },
+    {
+      "character": "り",
+      "romaji": "ri",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308A",
+      "ipa": "ɾi",
+      "example_words": ["りんご (ringo) - apple", "りょうり (ryouri) - cooking"]
+    },
+    {
+      "character": "る",
+      "romaji": "ru",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "308B",
+      "ipa": "ɾu",
+      "example_words": ["るす (rusu) - absence", "るり (ruri) - lapis lazuli"]
+    },
+    {
+      "character": "れ",
+      "romaji": "re",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308C",
+      "ipa": "ɾe",
+      "example_words": ["れい (rei) - example", "れきし (rekishi) - history"]
+    },
+    {
+      "character": "ろ",
+      "romaji": "ro",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308D",
+      "ipa": "ɾo",
+      "example_words": ["ろうそく (rousoku) - candle", "ろく (roku) - six"]
+    },
+    {
+      "character": "わ",
+      "romaji": "wa",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308F",
+      "ipa": "wa",
+      "example_words": ["わたし (watashi) - I", "わかる (wakaru) - to understand"]
+    },
+    {
+      "character": "を",
+      "romaji": "wo",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3092",
+      "ipa": "o",
+      "example_words": ["を (wo) - particle"]
+    },
+    {
+      "character": "ん",
+      "romaji": "n",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3093",
+      "ipa": "n",
+      "example_words": ["ほん (hon) - book", "さん (san) - three"]
+    },
+    {
+      "character": "ア",
+      "romaji": "a",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A2",
+      "ipa": "a",
+      "example_words": ["アメリカ (Amerika) - America", "アニメ (anime) - anime"]
+    },
+    {
+      "character": "イ",
+      "romaji": "i",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A4",
+      "ipa": "i",
+      "example_words": ["イギリス (Igirisu) - England", "インターネット (intānetto) - internet"]
+    },
+    {
+      "character": "ウ",
+      "romaji": "u",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A6",
+      "ipa": "u",
+      "example_words": ["ウィスキー (uisukī) - whiskey", "ウサギ (usagi) - rabbit"]
+    },
+    {
+      "character": "エ",
+      "romaji": "e",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A8",
+      "ipa": "e",
+      "example_words": ["エレベーター (erebētā) - elevator", "エンジン (enjin) - engine"]
+    },
+    {
+      "character": "オ",
+      "romaji": "o",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30AA",
+      "ipa": "o",
+      "example_words": ["オレンジ (orenji) - orange", "オフィス (ofisu) - office"]
+    },
+    {
+      "character": "カ",
+      "romaji": "ka",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30AB",
+      "ipa": "ka",
+      "example_words": ["カメラ (kamera) - camera", "カレー (karē) - curry"]
+    },
+    {
+      "character": "キ",
+      "romaji": "ki",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30AD",
+      "ipa": "ki",
+      "example_words": ["キッチン (kitchin) - kitchen", "キリン (kirin) - giraffe"]
+    },
+    {
+      "character": "あ",
+      "romaji": "a",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3042",
+      "ipa": "a",
+      "example_words": ["あさ (asa) - morning", "あめ (ame) - rain"]
+    },
+    {
+      "character": "い",
+      "romaji": "i",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3044",
+      "ipa": "i",
+      "example_words": ["いぬ (inu) - dog", "いえ (ie) - house"]
+    },
+    {
+      "character": "う",
+      "romaji": "u",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3046",
+      "ipa": "u",
+      "example_words": ["うみ (umi) - sea", "うた (uta) - song"]
+    },
+    {
+      "character": "え",
+      "romaji": "e",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3048",
+      "ipa": "e",
+      "example_words": ["えき (eki) - station", "えん (en) - yen"]
+    },
+    {
+      "character": "お",
+      "romaji": "o",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "304A",
+      "ipa": "o",
+      "example_words": ["おかね (okane) - money", "おちゃ (ocha) - tea"]
+    },
+    {
+      "character": "か",
+      "romaji": "ka",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "304B",
+      "ipa": "ka",
+      "example_words": ["かさ (kasa) - umbrella", "かみ (kami) - paper"]
+    },
+    {
+      "character": "き",
+      "romaji": "ki",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "304D",
+      "ipa": "ki",
+      "example_words": ["き (ki) - tree", "きもの (kimono) - kimono"]
+    },
+    {
+      "character": "く",
+      "romaji": "ku",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "304F",
+      "ipa": "ku",
+      "example_words": ["くるま (kuruma) - car", "くち (kuchi) - mouth"]
+    },
+    {
+      "character": "け",
+      "romaji": "ke",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3051",
+      "ipa": "ke",
+      "example_words": ["けん (ken) - sword", "けいさつ (keisatsu) - police"]
+    },
+    {
+      "character": "こ",
+      "romaji": "ko",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3053",
+      "ipa": "ko",
+      "example_words": ["こども (kodomo) - child", "こえ (koe) - voice"]
+    },
+    {
+      "character": "さ",
+      "romaji": "sa",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3055",
+      "ipa": "sa",
+      "example_words": ["さかな (sakana) - fish", "さくら (sakura) - cherry blossom"]
+    },
+    {
+      "character": "し",
+      "romaji": "shi",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3057",
+      "ipa": "ɕi",
+      "example_words": ["しろ (shiro) - castle", "しんぶん (shinbun) - newspaper"]
+    },
+    {
+      "character": "す",
+      "romaji": "su",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3059",
+      "ipa": "su",
+      "example_words": ["すし (sushi) - sushi", "すいか (suika) - watermelon"]
+    },
+    {
+      "character": "せ",
+      "romaji": "se",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "305B",
+      "ipa": "se",
+      "example_words": ["せんせい (sensei) - teacher", "せかい (sekai) - world"]
+    },
+    {
+      "character": "そ",
+      "romaji": "so",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "305D",
+      "ipa": "so",
+      "example_words": ["そら (sora) - sky", "そうじ (souji) - cleaning"]
+    },
+    {
+      "character": "た",
+      "romaji": "ta",
+      "type": "hiragana",
+      "stroke_count": 4,
+      "unicode": "305F",
+      "ipa": "ta",
+      "example_words": ["たべる (taberu) - to eat", "たまご (tamago) - egg"]
+    },
+    {
+      "character": "ち",
+      "romaji": "chi",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3061",
+      "ipa": "tɕi",
+      "example_words": ["ちず (chizu) - map", "ちいさい (chiisai) - small"]
+    },
+    {
+      "character": "つ",
+      "romaji": "tsu",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3064",
+      "ipa": "tsu",
+      "example_words": ["つき (tsuki) - moon", "つくえ (tsukue) - desk"]
+    },
+    {
+      "character": "て",
+      "romaji": "te",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3066",
+      "ipa": "te",
+      "example_words": ["てがみ (tegami) - letter", "てんき (tenki) - weather"]
+    },
+    {
+      "character": "と",
+      "romaji": "to",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3068",
+      "ipa": "to",
+      "example_words": ["ともだち (tomodachi) - friend", "とり (tori) - bird"]
+    },
+    {
+      "character": "な",
+      "romaji": "na",
+      "type": "hiragana",
+      "stroke_count": 4,
+      "unicode": "306A",
+      "ipa": "na",
+      "example_words": ["なつ (natsu) - summer", "なまえ (namae) - name"]
+    },
+    {
+      "character": "に",
+      "romaji": "ni",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "306B",
+      "ipa": "ni",
+      "example_words": ["にほん (nihon) - Japan", "にく (niku) - meat"]
+    },
+    {
+      "character": "ぬ",
+      "romaji": "nu",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "306C",
+      "ipa": "nu",
+      "example_words": ["ぬの (nuno) - cloth", "ぬるい (nurui) - lukewarm"]
+    },
+    {
+      "character": "ね",
+      "romaji": "ne",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "306D",
+      "ipa": "ne",
+      "example_words": ["ねこ (neko) - cat", "ねつ (netsu) - fever"]
+    },
+    {
+      "character": "の",
+      "romaji": "no",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "306E",
+      "ipa": "no",
+      "example_words": ["のり (nori) - seaweed", "のむ (nomu) - to drink"]
+    },
+    {
+      "character": "は",
+      "romaji": "ha",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "306F",
+      "ipa": "ha",
+      "example_words": ["はな (hana) - flower", "はし (hashi) - bridge"]
+    },
+    {
+      "character": "ひ",
+      "romaji": "hi",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3072",
+      "ipa": "çi",
+      "example_words": ["ひと (hito) - person", "ひる (hiru) - noon"]
+    },
+    {
+      "character": "ふ",
+      "romaji": "fu",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3075",
+      "ipa": "ɸu",
+      "example_words": ["ふね (fune) - boat", "ふゆ (fuyu) - winter"]
+    },
+    {
+      "character": "へ",
+      "romaji": "he",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3078",
+      "ipa": "he",
+      "example_words": ["へや (heya) - room", "へん (hen) - strange"]
+    },
+    {
+      "character": "ほ",
+      "romaji": "ho",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "307B",
+      "ipa": "ho",
+      "example_words": ["ほん (hon) - book", "ほし (hoshi) - star"]
+    },
+    {
+      "character": "ま",
+      "romaji": "ma",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "307E",
+      "ipa": "ma",
+      "example_words": ["まち (machi) - town", "まど (mado) - window"]
+    },
+    {
+      "character": "み",
+      "romaji": "mi",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "307F",
+      "ipa": "mi",
+      "example_words": ["みず (mizu) - water", "みせ (mise) - shop"]
+    },
+    {
+      "character": "む",
+      "romaji": "mu",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3080",
+      "ipa": "mu",
+      "example_words": ["むし (mushi) - insect", "むら (mura) - village"]
+    },
+    {
+      "character": "め",
+      "romaji": "me",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3081",
+      "ipa": "me",
+      "example_words": ["め (me) - eye", "めし (meshi) - meal"]
+    },
+    {
+      "character": "も",
+      "romaji": "mo",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3082",
+      "ipa": "mo",
+      "example_words": ["もり (mori) - forest", "もんだい (mondai) - problem"]
+    },
+    {
+      "character": "や",
+      "romaji": "ya",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3084",
+      "ipa": "ja",
+      "example_words": ["やま (yama) - mountain", "やさい (yasai) - vegetable"]
+    },
+    {
+      "character": "ゆ",
+      "romaji": "yu",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3086",
+      "ipa": "ju",
+      "example_words": ["ゆき (yuki) - snow", "ゆめ (yume) - dream"]
+    },
+    {
+      "character": "よ",
+      "romaji": "yo",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3088",
+      "ipa": "jo",
+      "example_words": ["よる (yoru) - night", "ようふく (youfuku) - clothes"]
+    },
+    {
+      "character": "ら",
+      "romaji": "ra",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "3089",
+      "ipa": "ɾa",
+      "example_words": ["らいねん (rainen) - next year", "らく (raku) - easy"]
+    },
+    {
+      "character": "り",
+      "romaji": "ri",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308A",
+      "ipa": "ɾi",
+      "example_words": ["りんご (ringo) - apple", "りょうり (ryouri) - cooking"]
+    },
+    {
+      "character": "る",
+      "romaji": "ru",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "308B",
+      "ipa": "ɾu",
+      "example_words": ["るす (rusu) - absence", "るり (ruri) - lapis lazuli"]
+    },
+    {
+      "character": "れ",
+      "romaji": "re",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308C",
+      "ipa": "ɾe",
+      "example_words": ["れい (rei) - example", "れきし (rekishi) - history"]
+    },
+    {
+      "character": "ろ",
+      "romaji": "ro",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308D",
+      "ipa": "ɾo",
+      "example_words": ["ろうそく (rousoku) - candle", "ろく (roku) - six"]
+    },
+    {
+      "character": "わ",
+      "romaji": "wa",
+      "type": "hiragana",
+      "stroke_count": 2,
+      "unicode": "308F",
+      "ipa": "wa",
+      "example_words": ["わたし (watashi) - I", "わかる (wakaru) - to understand"]
+    },
+    {
+      "character": "を",
+      "romaji": "wo",
+      "type": "hiragana",
+      "stroke_count": 3,
+      "unicode": "3092",
+      "ipa": "o",
+      "example_words": ["を (wo) - particle"]
+    },
+    {
+      "character": "ん",
+      "romaji": "n",
+      "type": "hiragana",
+      "stroke_count": 1,
+      "unicode": "3093",
+      "ipa": "n",
+      "example_words": ["ほん (hon) - book", "さん (san) - three"]
+    },
+    {
+      "character": "ア",
+      "romaji": "a",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A2",
+      "ipa": "a",
+      "example_words": ["アメリカ (Amerika) - America", "アニメ (anime) - anime"]
+    },
+    {
+      "character": "イ",
+      "romaji": "i",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A4",
+      "ipa": "i",
+      "example_words": ["イギリス (Igirisu) - England", "インターネット (intānetto) - internet"]
+    },
+    {
+      "character": "ウ",
+      "romaji": "u",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A6",
+      "ipa": "u",
+      "example_words": ["ウィスキー (uisukī) - whiskey", "ウサギ (usagi) - rabbit"]
+    },
+    {
+      "character": "エ",
+      "romaji": "e",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30A8",
+      "ipa": "e",
+      "example_words": ["エレベーター (erebētā) - elevator", "エンジン (enjin) - engine"]
+    },
+    {
+      "character": "オ",
+      "romaji": "o",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30AA",
+      "ipa": "o",
+      "example_words": ["オレンジ (orenji) - orange", "オフィス (ofisu) - office"]
+    },
+    {
+      "character": "カ",
+      "romaji": "ka",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30AB",
+      "ipa": "ka",
+      "example_words": ["カメラ (kamera) - camera", "カレー (karē) - curry"]
+    },
+    {
+      "character": "キ",
+      "romaji": "ki",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30AD",
+      "ipa": "ki",
+      "example_words": ["キッチン (kitchin) - kitchen", "キリン (kirin) - giraffe"]
+    },
+    {
+      "character": "ク",
+      "romaji": "ku",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30AF",
+      "ipa": "ku",
+      "example_words": ["クリスマス (kurisumasu) - Christmas", "クラス (kurasu) - class"]
+    },
+    {
+      "character": "ケ",
+      "romaji": "ke",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30B1",
+      "ipa": "ke",
+      "example_words": ["ケーキ (kēki) - cake", "ケータイ (kētai) - cell phone"]
+    },
+    {
+      "character": "コ",
+      "romaji": "ko",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30B3",
+      "ipa": "ko",
+      "example_words": ["コーヒー (kōhī) - coffee", "コンピューター (konpyūtā) - computer"]
+    },
+    {
+      "character": "サ",
+      "romaji": "sa",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30B5",
+      "ipa": "sa",
+      "example_words": ["サッカー (sakkā) - soccer", "サンドイッチ (sandoicchi) - sandwich"]
+    },
+    {
+      "character": "シ",
+      "romaji": "shi",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30B7",
+      "ipa": "ɕi",
+      "example_words": ["シャワー (shawā) - shower", "シャツ (shatsu) - shirt"]
+    },
+    {
+      "character": "ス",
+      "romaji": "su",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30B9",
+      "ipa": "su",
+      "example_words": ["スーパー (sūpā) - supermarket" ]
+    },
+    {
+      "character": "セ",
+      "romaji": "se",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30BB",
+      "ipa": "se",
+      "example_words": ["セーター (sētā) - sweater", "センター (sentā) - center"]
+    },
+    {
+      "character": "ソ",
+      "romaji": "so",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30BD",
+      "ipa": "so",
+      "example_words": ["ソファー (sofā) - sofa", "ソース (sōsu) - sauce"]
+    },
+    {
+      "character": "タ",
+      "romaji": "ta",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30BF",
+      "ipa": "ta",
+      "example_words": ["タクシー (takushī) - taxi", "タオル (taoru) - towel"]
+    },
+    {
+      "character": "チ",
+      "romaji": "chi",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30C1",
+      "ipa": "tɕi",
+      "example_words": ["チョコレート (chokorēto) - chocolate", "チーズ (chīzu) - cheese"]
+    },
+    {
+      "character": "ツ",
+      "romaji": "tsu",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30C4",
+      "ipa": "tsu",
+      "example_words": ["ツアー (tsuā) - tour", "ツール (tsūru) - tool"]
+    },
+    {
+      "character": "テ",
+      "romaji": "te",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30C6",
+      "ipa": "te",
+      "example_words": ["テニス (tenisu) - tennis", "テーブル (tēburu) - table"]
+    },
+    {
+      "character": "ト",
+      "romaji": "to",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30C8",
+      "ipa": "to",
+      "example_words": ["トイレ (toire) - toilet", "トマト (tomato) - tomato"]
+    },
+    {
+      "character": "ナ",
+      "romaji": "na",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30CA",
+      "ipa": "na",
+      "example_words": ["ナイフ (naifu) - knife", "ナン (nan) - bread"]
+    },
+    {
+      "character": "ニ",
+      "romaji": "ni",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30CB",
+      "ipa": "ni",
+      "example_words": ["ニュース (nyūsu) - news", "ニット (nitto) - knit"]
+    },
+    {
+      "character": "ヌ",
+      "romaji": "nu",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30CC",
+      "ipa": "nu",
+      "example_words": ["ヌードル (nūdoru) - noodle", "ヌーベル (nūberu) - new"]
+    },
+    {
+      "character": "ネ",
+      "romaji": "ne",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30CD",
+      "ipa": "ne",
+      "example_words": ["ネクタイ (nekutai) - necktie", "ネット (netto) - net"]
+    },
+    {
+      "character": "ノ",
+      "romaji": "no",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30CE",
+      "ipa": "no",
+      "example_words": ["ノート (nōto) - notebook", "ノック (nokku) - knock"]
+    },
+    {
+      "character": "ハ",
+      "romaji": "ha",
+        "type": "katakana",
+        "stroke_count": 3,
+        "unicode": "30CF",
+        "ipa": "ha",
+        "example_words": ["ハンバーガー (hanbāgā) - hamburger", "ハンカチ (hankachi) - handkerchief"]
+    },
+    {
+      "character": "ヒ",
+      "romaji": "hi",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30D2",
+      "ipa": "çi",
+      "example_words": ["ヒーター (hītā) - heater", "ヒント (hinto) - hint"]
+    },
+    {
+      "character": "フ",
+      "romaji": "fu",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30D5",
+      "ipa": "ɸu",
+      "example_words": ["フランス (Furansu) - France", "フィルム (firumu) - film"]
+    },
+    {
+      "character": "ヘ",
+      "romaji": "he",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30D8",
+      "ipa": "he",
+      "example_words": ["ヘルメット (herumetto) - helmet", "ヘアスタイル (heasutairu) - hairstyle"]
+    },
+    {
+      "character": "ホ",
+      "romaji": "ho",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30DB",
+      "ipa": "ho",
+      "example_words": ["ホテル (hoteru) - hotel", "ホーム (hōmu) - home"]
+    },
+    {
+      "character": "マ",
+      "romaji": "ma",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30DE",
+      "ipa": "ma",
+      "example_words": ["マンガ (manga) - manga", "マフラー (mafurā) - muffler"]
+    },
+    {
+      "character": "ミ",
+      "romaji": "mi",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30DF",
+      "ipa": "mi",
+      "example_words": ["ミルク (miruku) - milk", "ミュージック (my ūjikku) - music"]
+    },
+    {
+      "character": "ム",
+      "romaji": "mu",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30E0",
+      "ipa": "mu",
+      "example_words": ["ムード (mūdo) - mood", "ムービー (mūbī) - movie"]
+    },
+    {
+      "character": "メ",
+      "romaji": "me",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30E1",
+      "ipa": "me",
+      "example_words": ["メール (mēru) - email", "メガネ (megane) - glasses"]
+    },
+    {
+      "character": "モ",
+      "romaji": "mo",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30E2",
+      "ipa": "mo",
+      "example_words": ["モーテル (mōteru) - motel", "モデル (moderu) - model"]
+    },
+    {
+      "character": "ヤ",
+      "romaji": "ya",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30E4",
+      "ipa": "ja",
+      "example_words": ["ヤフー (Yafū) - Yahoo", "ヤード (yādo) - yard"]
+    },
+    {
+      "character": "ユ",
+      "romaji": "yu",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30E6",
+      "ipa": "ju",
+      "example_words": ["ユーモア (yūmoa) - humor", "ユニット (yunitto) - unit"]
+    },
+    {
+      "character": "ヨ",
+      "romaji": "yo",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30E8",
+      "ipa": "jo",
+      "example_words": ["ヨーロッパ (Yōroppa) - Europe", "ヨット (yotto) - yacht"]
+    },
+    {
+      "character": "ラ",
+      "romaji": "ra",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30E9",
+      "ipa": "ɾa",
+      "example_words": ["ラジオ (rajio) - radio", "ラーメン (rāmen) - ramen"]
+    },
+    {
+      "character": "リ",
+      "romaji": "ri",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30EA",
+      "ipa": "ɾi",
+      "example_words": ["リンゴ (ringo) - apple", "リモコン (rimokon) - remote control"]
+    },
+    {
+      "character": "ル",
+      "romaji": "ru",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30EB",
+      "ipa": "ɾu",
+      "example_words": ["ルール (rūru) - rule", "ルーム (rūmu) - room"]
+    },
+    {
+      "character": "レ",
+      "romaji": "re",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30EC",
+      "ipa": "ɾe",
+      "example_words": ["レストラン (resutoran) - restaurant", "レモン (remon) - lemon"]
+    },
+    {
+      "character": "ロ",
+      "romaji": "ro",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30ED",
+      "ipa": "ɾo",
+      "example_words": ["ロシア (Roshia) - Russia", "ロボット (robotto) - robot"]
+    },
+    {
+      "character": "ワ",
+      "romaji": "wa",
+      "type": "katakana",
+      "stroke_count": 2,
+      "unicode": "30EF",
+      "ipa": "wa",
+      "example_words": ["ワイン (wain) - wine", "ワンピース (wanpīsu) - one-piece dress"]
+    },
+    {
+      "character": "ヲ",
+      "romaji": "wo",
+      "type": "katakana",
+      "stroke_count": 3,
+      "unicode": "30F2",
+      "ipa": "o",
+      "example_words": ["ヲ (wo) - particle"]
+    },
+    {
+      "character": "ン",
+      "romaji": "n",
+      "type": "katakana",
+      "stroke_count": 1,
+      "unicode": "30F3",
+      "ipa": "n",
+      "example_words": ["ハンバーガー (hanbāgā) - hamburger", "サンドイッチ (sandoicchi) - sandwich"]
+    }
+]

@@ -1,0 +1,32 @@
+{
+  "name": "japanese-easy",
+  "version": "1.0.0",
+  "description": "A utility package for fetching Japanese Kana and Kanji data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/core.js"
+  },
+  "keywords": [
+    "japanese",
+    "kanji",
+    "kana",
+    "hiragana",
+    "katakana",
+    "language",
+    "utility"
+  ],
+  "author": "Kurizu",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/japanese-easy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/japanese-easy/issues"
+  },
+  "homepage": "https://github.com/yourusername/japanese-easy#readme"
+}
