@@ -1,6 +1,6 @@
 {
   "name": "japanese-easy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A comprehensive toolkit for accessing and working with Japanese Kanji, Kana, and pronunciation data.",
   "main": "index.js",
   "type": "module",
@@ -30,5 +30,10 @@
   "bugs": {
     "url": "https://github.com/crizmo/japanese-easy/issues"
   },
-  "homepage": "https://github.com/crizmo/japanese-easy#readme"
+  "homepage": "https://github.com/crizmo/japanese-easy#readme",
+  "files": [
+    "src",
+    "src/data/kana.json",
+    "index.js"
+  ]
 }

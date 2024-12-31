@@ -1,8 +1,12 @@
 import fetch from 'node-fetch';
 import { promises as fs } from 'fs';
 import path from 'path';
+import { fileURLToPath } from 'url';
 
-const kanaFilePath = path.resolve('./src/data/kana.json');
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+const kanaFilePath = path.resolve(__dirname, './data/kana.json');
 
 export const lookupKanji = async (kanji) => {
   try {
