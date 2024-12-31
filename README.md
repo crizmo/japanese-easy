@@ -112,6 +112,25 @@ Converts a string of Kanji into Kana for better pronunciation.
 ### `fetchKanjiList(filter: string): Promise<Array>`
 Fetches a list of Kanji based on a specified filter (e.g., grade level).
 
+
+### Available Parameters for `fetchKanjiList`
+
+The `fetchKanjiList` function supports the following categories as parameters:
+
+- `joyo` or `jouyou`: List of Jōyō Kanji.
+- `jinmeiyo` or `jinmeiyou`: List of Jinmeiyō Kanji.
+- `heisig`: List of Kanji with a Heisig keyword.
+- `kyouiku` or `kyouiku`: List of all Kyōiku Kanji.
+- `grade-1`: List of Grade 1 Kyōiku Kanji.
+- `grade-2`: List of Grade 2 Kyōiku Kanji.
+- `grade-3`: List of Grade 3 Kyōiku Kanji.
+- `grade-4`: List of Grade 4 Kyōiku Kanji.
+- `grade-5`: List of Grade 5 Kyōiku Kanji.
+- `grade-6`: List of Grade 6 Kyōiku Kanji.
+- `grade-8`: List of Jōyō Kanji excluding Kyōiku Kanji.
+- `all`: List of all 13,000+ available Kanji.
+
+
 - **Parameter:** `filter` - A string filter such as "grade-1".
 - **Returns:** A Promise resolving to an array of Kanji.
 
