@@ -1,7 +1,7 @@
 {
   "name": "japanese-easy",
-  "version": "1.0.1",
-  "description": "A comprehensive toolkit for accessing and working with Japanese Kanji, Kana, and pronunciation data.",
+  "version": "1.2.0",
+  "description": "A comprehensive toolkit for learning and working with Japanese Kanji, Kana, and vocabulary data, complete with charts, readings, and utility functions.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -13,10 +13,16 @@
     "kana",
     "hiragana",
     "katakana",
-    "language",
-    "utility",
+    "jlpt",
+    "japanese-language",
+    "language-toolkit",
+    "vocabulary",
     "charts",
-    "data"
+    "reading",
+    "japanese-utility",
+    "language-learning",
+    "language-resources",
+    "language-tools"
   ],
   "author": "Kurizu",
   "license": "MIT",
@@ -34,6 +40,10 @@
   "files": [
     "src",
     "src/data/kana.json",
-    "index.js"
-  ]
+    "index.js",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=16.0.0"
+  }
 }

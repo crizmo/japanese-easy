@@ -6,10 +6,13 @@
 ## Features
 
 - Lookup Kanji data, including meanings, readings, and more.
-- Fetch Kana (Hiragana/Katakana) details.
+- Lookup Kana (Hiragana/Katakana) details.
 - Convert Kanji to Kana for better understanding of pronunciation.
 - Retrieve a list of Kanji based on grades or other filters.
 - Access complete Hiragana and Katakana charts.
+- Lookup specific words and their meanings.
+- Lookup random words or words by JLPT level.
+- Retrieve all available words, optionally filtered by level.
 
 ---
 
@@ -57,11 +60,11 @@ japanese_easy.convertKanjiToKana('猫').then(data => {
 });
 ```
 
-### Fetch Kanji List
+### Lookup Kanji List
 
 ```javascript
-japanese_easy.fetchKanjiList('grade-1').then(data => {
-    console.log("Result from fetchKanjiList:", data);
+japanese_easy.lookupKanjiList('grade-1').then(data => {
+    console.log("Result from lookupKanjiList:", data);
 });
 ```
 
@@ -78,6 +81,54 @@ japanese_easy.getHiraganaChart().then(data => {
 ```javascript
 japanese_easy.getKatakanaChart().then(data => {
     console.log("Result from getKatakanaChart:", data);
+});
+```
+
+### Lookup Specific Word
+
+```javascript
+japanese_easy.lookupWord('夜更かし').then(data => {
+    console.log("Result from lookupWord:", data);
+});
+```
+
+### Lookup Words by JLPT Level
+
+```javascript
+japanese_easy.lookupWordsByLevel(3).then(data => {
+    console.log("Result from lookupWordsByLevel (N3):", data);
+});
+```
+
+### Lookup Random Word
+
+```javascript
+japanese_easy.lookupRandomWord().then(data => {
+    console.log("Result from lookupRandomWord:", data);
+});
+```
+
+### Lookup Random Word by Level
+
+```javascript
+japanese_easy.lookupRandomWord(1).then(data => {
+    console.log("Result from lookupRandomWord (N1):", data);
+});
+```
+
+### Lookup All Words
+
+```javascript
+japanese_easy.lookupAllWords().then(data => {
+    console.log("Result from lookupAllWords:", data);
+});
+```
+
+### Fetch All Words by Level
+
+```javascript
+japanese_easy.lookupAllWords(3).then(data => {
+    console.log("Result from lookupAllWords (N3):", data);
 });
 ```
 
@@ -109,13 +160,12 @@ Converts a string of Kanji into Kana for better pronunciation.
 
 ---
 
-### `fetchKanjiList(filter: string): Promise<Array>`
+### `lookupKanjiList(filter: string): Promise<Array>`
 Fetches a list of Kanji based on a specified filter (e.g., grade level).
 
+#### Available Parameters for `lookupKanjiList`
 
-### Available Parameters for `fetchKanjiList`
-
-The `fetchKanjiList` function supports the following categories as parameters:
+The `lookupKanjiList` function supports the following categories as parameters:
 
 - `joyo` or `jouyou`: List of Jōyō Kanji.
 - `jinmeiyo` or `jinmeiyou`: List of Jinmeiyō Kanji.
@@ -130,9 +180,40 @@ The `fetchKanjiList` function supports the following categories as parameters:
 - `grade-8`: List of Jōyō Kanji excluding Kyōiku Kanji.
 - `all`: List of all 13,000+ available Kanji.
 
-
 - **Parameter:** `filter` - A string filter such as "grade-1".
 - **Returns:** A Promise resolving to an array of Kanji.
+
+---
+
+### `lookupWord(word: string): Promise<Object>`
+Fetches detailed information about a specific word.
+
+- **Parameter:** `word` - The word to lookup.
+- **Returns:** A Promise resolving to word data.
+
+---
+
+### `lookupWordsByLevel(level: number): Promise<Array>`
+Fetches words by their JLPT level.
+
+- **Parameter:** `level` - The JLPT level (e.g., 1, 2, 3, 4, 5).
+- **Returns:** A Promise resolving to an array of words.
+
+---
+
+### `lookupRandomWord(level?: number): Promise<Object>`
+Fetches a random word, optionally filtered by JLPT level.
+
+- **Parameter:** `level` - The JLPT level (optional).
+- **Returns:** A Promise resolving to a random word.
+
+---
+
+### `lookupAllWords(level?: number): Promise<Array>`
+Fetches all available words, optionally filtered by JLPT level.
+
+- **Parameter:** `level` - The JLPT level (optional).
+- **Returns:** A Promise resolving to an array of words.
 
 ---
 
