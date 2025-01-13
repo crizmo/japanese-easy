@@ -1,6 +1,6 @@
 {
   "name": "japanese-easy",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A comprehensive toolkit for learning and working with Japanese Kanji, Kana, and vocabulary data, complete with charts, readings, and utility functions.",
   "main": "index.js",
   "type": "module",
@@ -27,7 +27,7 @@
   "author": "Kurizu",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "axios": "^1.7.9"
   },
   "repository": {
     "type": "git",

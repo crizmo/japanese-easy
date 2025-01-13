@@ -1,10 +1,10 @@
-import fetch from 'node-fetch';
+import axios from 'axios';
 
 // Fetch specific word
 export const lookupWord = async (word) => {
   try {
-    const response = await fetch(`https://jlpt-vocab-api.vercel.app/api/words?word=${encodeURIComponent(word)}`);
-    const data = await response.json();
+    const response = await axios.get(`https://jlpt-vocab-api.vercel.app/api/words?word=${encodeURIComponent(word)}`);
+    const data = response.data;
 
     if (!data) {
       console.error(`No data found for word ${word}`);
@@ -22,8 +22,8 @@ export const lookupWord = async (word) => {
 // Fetch words by level
 export const lookupWordsByLevel = async (level) => {
   try {
-    const response = await fetch(`https://jlpt-vocab-api.vercel.app/api/words?level=${encodeURIComponent(level)}`);
-    const data = await response.json();
+    const response = await axios.get(`https://jlpt-vocab-api.vercel.app/api/words?level=${encodeURIComponent(level)}`);
+    const data = response.data;
 
     if (!data || data.length === 0) {
       console.error(`No data found for level ${level}`);
@@ -44,8 +44,8 @@ export const lookupRandomWord = async (level = null) => {
     const url = level
       ? `https://jlpt-vocab-api.vercel.app/api/words/random?level=${encodeURIComponent(level)}`
       : `https://jlpt-vocab-api.vercel.app/api/words/random`;
-    const response = await fetch(url);
-    const data = await response.json();
+    const response = await axios.get(url);
+    const data = response.data;
 
     if (!data) {
       console.error(`No random word data found`);
@@ -66,8 +66,8 @@ export const lookupAllWords = async (level = null) => {
     const url = level
       ? `https://jlpt-vocab-api.vercel.app/api/words/all?level=${encodeURIComponent(level)}`
       : `https://jlpt-vocab-api.vercel.app/api/words/all`;
-    const response = await fetch(url);
-    const data = await response.json();
+    const response = await axios.get(url);
+    const data = response.data;
 
     if (!data || data.length === 0) {
       console.error(`No data found for all words${level ? ` at level ${level}` : ''}`);
