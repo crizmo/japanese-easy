@@ -245,6 +245,11 @@ This will execute the `tests/core.js` file.
 
 ---
 
+## Japanese Easy Website
+For more information, visit the [Japanese Easy](https://japanese-easy.vercel.app/) website.
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find bugs, feel free to open an issue or submit a pull request on [GitHub](https://github.com/crizmo/japanese-easy).

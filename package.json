@@ -1,6 +1,6 @@
 {
   "name": "japanese-easy",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "description": "A comprehensive toolkit for learning and working with Japanese Kanji, Kana, and vocabulary data, complete with charts, readings, and utility functions.",
   "main": "index.js",
   "type": "module",
